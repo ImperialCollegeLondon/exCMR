@@ -15,3 +15,7 @@ Real time (RT) exercise cardiac magnetic resonance imaging (exCMR) is an emergin
   * [box_dot_line](https://github.com/ImperialCollegeLondon/exCMR/blob/main/plots/box_dot_line)
     * [script.R:](https://github.com/ImperialCollegeLondon/exCMR/blob/main/plots/box_dot_line/script.R) R script to create a Box-Dot-Line plot excatly like in the paper.
     * [sample.png:](https://github.com/ImperialCollegeLondon/exCMR/blob/main/plots/box_dot_line/sample.png) Sample image of a Box-Dot-Line plot created by script.R.
+   
+ ## Citation
+
+Schweitzer R, de Marvao A, Shah M, Inglese P, Kellman P, Statton B, O’Regan DP. Exercise stress in healthy adults: normal ranges for real time cardiac magnetic resonance imaging. medRxiv (2023)
