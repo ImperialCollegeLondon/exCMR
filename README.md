@@ -4,7 +4,7 @@
 ## Background
 Real time (RT) exercise cardiac magnetic resonance imaging (exCMR) is an emerging approach for cardiac stress testing as part of a comprehensive cardiovascular imaging assessment. It has advantages over alternative approaches due to its high spatial resolution and use of non-pharmacological stress. As access to exCMR increases there is a need to establish reference ranges in healthy adults for clinical interpretation.
 
-## Table of contents
+## Table of Contents
 * [tables](https://github.com/ImperialCollegeLondon/exCMR/tree/main/tables)
   * [tables.ipynb:](https://github.com/ImperialCollegeLondon/exCMR/blob/main/tables/tables.ipynb) Jupyter notebook containing all statistical analysis and tabular data for the paper.
   * [requirements.txt:](https://github.com/ImperialCollegeLondon/exCMR/blob/main/tables/requirements.txt) Text file storing information about the libraries, modules, and packages necessary to run tables.ipynb.
