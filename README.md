@@ -1,6 +1,8 @@
 
 # Exercise stress in healthy adults: normal ranges for real time cardiac magnetic resonance imaging
 
+[![DOI](https://zenodo.org/badge/674581799.svg)](https://zenodo.org/badge/latestdoi/674581799)
+
 ## Background
 Real time (RT) exercise cardiac magnetic resonance imaging (exCMR) is an emerging approach for cardiac stress testing as part of a comprehensive cardiovascular imaging assessment. It has advantages over alternative approaches due to its high spatial resolution and use of non-pharmacological stress. As access to exCMR increases there is a need to establish reference ranges in healthy adults for clinical interpretation.
 
