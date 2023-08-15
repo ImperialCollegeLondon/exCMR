@@ -18,4 +18,4 @@ Real time (RT) exercise cardiac magnetic resonance imaging (exCMR) is an emergin
    
  ## Citation
 
-Schweitzer R, de Marvao A, Shah M, Inglese P, Kellman P, Statton B, O’Regan DP. Exercise stress in healthy adults: normal ranges for real time cardiac magnetic resonance imaging. medRxiv (2023)
+Schweitzer R, de Marvao A, Shah M, Inglese P, Kellman P, Berry A, Statton B, O’Regan DP. Exercise stress in healthy adults: normal ranges for real time cardiac magnetic resonance imaging. medRxiv (2023)
