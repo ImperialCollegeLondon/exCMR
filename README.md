@@ -1,5 +1,5 @@
 
-# Exercise stress in healthy adults: normal ranges for real time cardiac magnetic resonance imaging
+# Reference ranges for cardiovascular function during exercise: effects of aging and gender on performance
 
 [![DOI](https://zenodo.org/badge/674581799.svg)](https://zenodo.org/badge/latestdoi/674581799)
 
@@ -20,4 +20,4 @@ Real time (RT) exercise cardiac magnetic resonance imaging (exCMR) is an emergin
    
  ## Citation
 
-Schweitzer R, de Marvao A, Shah M, Inglese P, Kellman P, Berry A, Statton B and O'Regan DP. Exercise stress in healthy adults: normal ranges for real time cardiac magnetic resonance imaging. _medRxiv_. 2023:2023.08.23.23294458; doi: [10.1101/2023.08.23.23294458](https://doi.org/10.1101/2023.08.23.23294458).
+Schweitzer R, de Marvao A, Shah M, Inglese P, Kellman P, Berry A, Statton B and O'Regan DP. Reference ranges for cardiovascular function during exercise: effects of aging and gender on performance. _medRxiv_. 2023:2023.08.23.23294458; doi: [10.1101/2023.08.23.23294458](https://doi.org/10.1101/2023.08.23.23294458).
